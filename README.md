@@ -4,6 +4,8 @@ Welcome to the intermediate-level code challenge for Lightning!
 
 [Try out a finished version of the app here](https://lightning-snake.vercel.app/#mainMenu)
 
+> Remember that you can submit your code until 17:15!
+
 ## About this challenge
 
 This app is made for two reasons:
@@ -11,7 +13,7 @@ This app is made for two reasons:
 - First one is to test your Lightning knowledge. Don't worry, this won't determine your paycheck! However, if you're struggling with this it might be worth revisiting the [workshop videos](https://www.notion.so/fxdigital/Intermediate-Lightning-Training-654b90ec60dc4da98a30a4c9503e594f).
 - Second is to showcase some things Lightning can do. Our main goal at Fx is to use Lightning for smart-tv application development... but it can do more than that!
 
-## Tasks
+### Tasks
 
 To finish this app you'll need to do a series of tasks that are listed below:
 
@@ -32,7 +34,7 @@ Extra challenge:
 - https://lightningjs.io/docs/#/lightning-core-reference/Communication/Signal?id=signal
 - https://lightningjs.io/docs/#/lightning-core-reference/Components/LifecycleEvents?id=lifecycle-events
 
-### Getting started
+## Getting started
 
 > Before you follow the steps below, make sure you have [Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ on your system
 
@@ -40,7 +42,7 @@ Extra challenge:
 npm install -g @lightningjs/cli
 ```
 
-### Running the App
+## Running the App
 
 1. Install the NPM dependencies by running `npm install`
 
